@@ -1,0 +1,32 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Noticias de Segunda'
+theme = 'hugo-PaperMod'
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Noticias"
+  weight = 20
+  identifier = "noticias"
+  url = "/noticias/"
+[[menu.main]]
+  name = "Equipos"
+  weight = 30
+  identifier = "equipos"
+  url = "/equipos/"
+[[menu.main]]
+  name = "Contacto"
+  weight = 40
+  identifier = "contacto"
+  url = "/contacto/"
+  [[menu.main]]
+  name = "Search"
+  weight = 40
+  identifier = "search"
+  url = "/search/"
