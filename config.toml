@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/DanielMartinCa/SegundaDivision.git'
 languageCode = 'en-us'
 title = 'Noticias de Segunda'
 theme = 'hugo-PaperMod'
