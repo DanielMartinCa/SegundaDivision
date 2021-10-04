@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/equipos/llagostera/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/equipos/llagostera/</loc>
     <lastmod>2021-10-03T21:03:30+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/</loc>
     <lastmod>2021-10-03T21:03:30+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/equipos/osasuna/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/equipos/osasuna/</loc>
     <lastmod>2021-10-03T21:03:21+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/equipos/tenerife/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/equipos/tenerife/</loc>
     <lastmod>2021-10-03T21:02:37+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/noticias/lesion/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/noticias/lesion/</loc>
     <lastmod>2021-10-03T20:11:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/noticias/moviola/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/noticias/moviola/</loc>
     <lastmod>2021-10-03T20:03:44+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/noticias/datosjornada/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/noticias/datosjornada/</loc>
     <lastmod>2021-10-02T14:54:28+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/equipos/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/equipos/</loc>
     <lastmod>2021-10-02T14:50:17+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/noticias/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/noticias/</loc>
     <lastmod>2021-10-02T14:50:17+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/contacto/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/contacto/</loc>
     <lastmod>2021-09-22T09:06:16+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/categories/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://github.com/DanielMartinCa/SegundaDivision.git/tags/</loc>
   </url>
 </urlset>
