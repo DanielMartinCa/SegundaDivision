@@ -11,4 +11,4 @@ Pacheta mostró su enfado por la actitud de un aficionado en la rueda de prensa 
 
 "He tenido un incidente con la grada, no me ha gustado y no voy a permitirlo. Igual que se protege a negros, blancos, hombres y mujeres. Lo voy a denunciar, lo identificarán y 'catapum'; lo expulsarán. La entrada que pagas no te da derecho al insulto, a la vejación y a la humillación. Sé que es un solo aficionado, pero a ese uno hay que localizarle", alegaba Pacheta.
 
-![moviola](/img/moviola.webp)
+![moviola](../../img/moviola.webp)

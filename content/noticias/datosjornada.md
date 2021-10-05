@@ -6,4 +6,4 @@ layout: "noticias"
 ---
 ## En éste apartado te mostraremos los resultados de la última jornada
 
-![resultados](/img/resultadosj7.png)
+![resultados](../../img/resultadosj7.png)

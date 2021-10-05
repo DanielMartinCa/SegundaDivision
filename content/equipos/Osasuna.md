@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-![Osasuna](/img/osasuna.png)
+![Osasuna](../../img/osasuna.png)
 
 Será difícil repetir una temporada igual. El Club Atlético Osasuna logró el ascenso a Primera División tras una temporada de ensueño, en la que firmó su mejor participación de la categoría de plata de la historia. Jagoba Arrasate fue el elegido para dirigir un equipo que se proclamaría campeón de la competición tras 58 años, ya que la última vez que lo había logrado fue en la temporada 1960/61. Además, se trató de la primera vez que la entidad rojilla era campeona de Segunda desde que la división estaba compuesta por un único grupo.
 
