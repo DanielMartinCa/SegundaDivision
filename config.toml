@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/DanielMartinCa/SegundaDivision.git'
+baseURL = 'https://danielmartinca.github.io/SegundaDivision/'
 languageCode = 'en-us'
 title = 'Noticias de Segunda'
 theme = 'hugo-PaperMod'
@@ -30,3 +30,4 @@ theme = 'hugo-PaperMod'
   weight = 40
   identifier = "search"
   url = "/search/"
+
